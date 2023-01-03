@@ -5,7 +5,8 @@
 #### Installation:
 Сборка проекта с помощью [Makefile](https://github.com/GTimsan/SmartCalc_v1/blob/main/src/Makefile) и нужной цели.
 
-Тесты и вычислительная часть написанна на языке Си:
+#### Navigation
+Тесты и вычислительная часть написанная на языке Си:
 - [Тесты](https://github.com/GTimsan/SmartCalc_v1/blob/main/src/tests.c)
 - [Header](https://github.com/GTimsan/SmartCalc_v1/blob/main/src/calc.h)
 - [Реализация](https://github.com/GTimsan/SmartCalc_v1/blob/main/src/calc.c)
